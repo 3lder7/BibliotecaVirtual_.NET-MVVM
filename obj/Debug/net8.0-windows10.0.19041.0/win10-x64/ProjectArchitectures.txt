@@ -1,0 +1,1 @@
+C:\Users\elder\source\repos\bibliotecaVirtual(com MVVM)\bibliotecaVirtual(com MVVM).csproj;x64
