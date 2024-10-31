@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\elder\\source\\repos\\bibliotecaVirtual(com MVVM)\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{376AAAC9-D68F-4E8E-8574-5AF720FFB8BB}|bibliotecaVirtual(com MVVM).csproj|c:\\users\\elder\\source\\repos\\bibliotecavirtual(com mvvm)\\views\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{376AAAC9-D68F-4E8E-8574-5AF720FFB8BB}|bibliotecaVirtual(com MVVM).csproj|solutionrelative:views\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{376AAAC9-D68F-4E8E-8574-5AF720FFB8BB}|bibliotecaVirtual(com MVVM).csproj|c:\\users\\elder\\source\\repos\\bibliotecavirtual(com mvvm)\\views\\cadastropage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{376AAAC9-D68F-4E8E-8574-5AF720FFB8BB}|bibliotecaVirtual(com MVVM).csproj|solutionrelative:views\\cadastropage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{376AAAC9-D68F-4E8E-8574-5AF720FFB8BB}|bibliotecaVirtual(com MVVM).csproj|c:\\users\\elder\\source\\repos\\bibliotecavirtual(com mvvm)\\views\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{376AAAC9-D68F-4E8E-8574-5AF720FFB8BB}|bibliotecaVirtual(com MVVM).csproj|solutionrelative:views\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{376AAAC9-D68F-4E8E-8574-5AF720FFB8BB}|bibliotecaVirtual(com MVVM).csproj|c:\\users\\elder\\source\\repos\\bibliotecavirtual(com mvvm)\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{376AAAC9-D68F-4E8E-8574-5AF720FFB8BB}|bibliotecaVirtual(com MVVM).csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{376AAAC9-D68F-4E8E-8574-5AF720FFB8BB}|bibliotecaVirtual(com MVVM).csproj|c:\\users\\elder\\source\\repos\\bibliotecavirtual(com mvvm)\\views\\cadastropage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{376AAAC9-D68F-4E8E-8574-5AF720FFB8BB}|bibliotecaVirtual(com MVVM).csproj|solutionrelative:views\\cadastropage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{376AAAC9-D68F-4E8E-8574-5AF720FFB8BB}|bibliotecaVirtual(com MVVM).csproj|c:\\users\\elder\\source\\repos\\bibliotecavirtual(com mvvm)\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{376AAAC9-D68F-4E8E-8574-5AF720FFB8BB}|bibliotecaVirtual(com MVVM).csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{376AAAC9-D68F-4E8E-8574-5AF720FFB8BB}|bibliotecaVirtual(com MVVM).csproj|c:\\users\\elder\\source\\repos\\bibliotecavirtual(com mvvm)\\views\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{376AAAC9-D68F-4E8E-8574-5AF720FFB8BB}|bibliotecaVirtual(com MVVM).csproj|solutionrelative:views\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,34 +26,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "App.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\elder\\source\\repos\\bibliotecaVirtual(com MVVM)\\App.xaml.cs",
-              "RelativeDocumentMoniker": "App.xaml.cs",
-              "ToolTip": "C:\\Users\\elder\\source\\repos\\bibliotecaVirtual(com MVVM)\\App.xaml.cs",
-              "RelativeToolTip": "App.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T19:14:38.605Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "App.xaml",
-              "DocumentMoniker": "C:\\Users\\elder\\source\\repos\\bibliotecaVirtual(com MVVM)\\App.xaml",
-              "RelativeDocumentMoniker": "App.xaml",
-              "ToolTip": "C:\\Users\\elder\\source\\repos\\bibliotecaVirtual(com MVVM)\\App.xaml",
-              "RelativeToolTip": "App.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-30T19:14:37.75Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -62,22 +36,48 @@
               "RelativeDocumentMoniker": "Views\\HomePage.xaml",
               "ToolTip": "C:\\Users\\elder\\source\\repos\\bibliotecaVirtual(com MVVM)\\Views\\HomePage.xaml",
               "RelativeToolTip": "Views\\HomePage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-30T18:29:26.365Z",
+              "WhenOpened": "2024-10-31T18:54:55.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\elder\\source\\repos\\bibliotecaVirtual(com MVVM)\\Views\\LoginPage.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\LoginPage.xaml.cs",
+              "ToolTip": "C:\\Users\\elder\\source\\repos\\bibliotecaVirtual(com MVVM)\\Views\\LoginPage.xaml.cs",
+              "RelativeToolTip": "Views\\LoginPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T18:50:59.491Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "HomePage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\elder\\source\\repos\\bibliotecaVirtual(com MVVM)\\Views\\HomePage.xaml.cs",
-              "RelativeDocumentMoniker": "Views\\HomePage.xaml.cs",
-              "ToolTip": "C:\\Users\\elder\\source\\repos\\bibliotecaVirtual(com MVVM)\\Views\\HomePage.xaml.cs",
-              "RelativeToolTip": "Views\\HomePage.xaml.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBMAAAAAAAAAAAAAAA==",
+              "Title": "CadastroPage.xaml",
+              "DocumentMoniker": "C:\\Users\\elder\\source\\repos\\bibliotecaVirtual(com MVVM)\\Views\\CadastroPage.xaml",
+              "RelativeDocumentMoniker": "Views\\CadastroPage.xaml",
+              "ToolTip": "C:\\Users\\elder\\source\\repos\\bibliotecaVirtual(com MVVM)\\Views\\CadastroPage.xaml",
+              "RelativeToolTip": "Views\\CadastroPage.xaml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAgwBoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-31T18:41:52.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CadastroPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\elder\\source\\repos\\bibliotecaVirtual(com MVVM)\\Views\\CadastroPage.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\CadastroPage.xaml.cs",
+              "ToolTip": "C:\\Users\\elder\\source\\repos\\bibliotecaVirtual(com MVVM)\\Views\\CadastroPage.xaml.cs",
+              "RelativeToolTip": "Views\\CadastroPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T18:50:03.329Z",
+              "WhenOpened": "2024-10-31T18:42:06.312Z",
               "EditorCaption": ""
             }
           ]

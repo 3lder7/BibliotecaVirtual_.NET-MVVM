@@ -12,14 +12,14 @@
 
         <Button x:Name="LoginButton"
                 Text="Login"
-                BackgroundColor="DarkGreen"
+                BackgroundColor="Purple"
                 TextColor="White"
                 FontSize="20"
                 Margin="0, 0, 0, 20"/>
 
         <Button x:Name="CadastroButton"
                 Text="Cadastro"
-                BackgroundColor="LightGreen"
+                BackgroundColor="MediumPurple"
                 TextColor="White"
                 FontSize="20"/>
     </StackLayout>
