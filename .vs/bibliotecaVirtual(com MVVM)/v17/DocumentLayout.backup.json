@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\elder\\source\\repos\\bibliotecaVirtual(com MVVM)\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{376AAAC9-D68F-4E8E-8574-5AF720FFB8BB}|bibliotecaVirtual(com MVVM).csproj|c:\\users\\elder\\source\\repos\\bibliotecavirtual(com mvvm)\\views\\cadastropage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{376AAAC9-D68F-4E8E-8574-5AF720FFB8BB}|bibliotecaVirtual(com MVVM).csproj|solutionrelative:views\\cadastropage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{376AAAC9-D68F-4E8E-8574-5AF720FFB8BB}|bibliotecaVirtual(com MVVM).csproj|c:\\users\\elder\\source\\repos\\bibliotecavirtual(com mvvm)\\views\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{376AAAC9-D68F-4E8E-8574-5AF720FFB8BB}|bibliotecaVirtual(com MVVM).csproj|solutionrelative:views\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{376AAAC9-D68F-4E8E-8574-5AF720FFB8BB}|bibliotecaVirtual(com MVVM).csproj|c:\\users\\elder\\source\\repos\\bibliotecavirtual(com mvvm)\\views\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{376AAAC9-D68F-4E8E-8574-5AF720FFB8BB}|bibliotecaVirtual(com MVVM).csproj|solutionrelative:views\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{376AAAC9-D68F-4E8E-8574-5AF720FFB8BB}|bibliotecaVirtual(com MVVM).csproj|c:\\users\\elder\\source\\repos\\bibliotecavirtual(com mvvm)\\views\\cadastropage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{376AAAC9-D68F-4E8E-8574-5AF720FFB8BB}|bibliotecaVirtual(com MVVM).csproj|solutionrelative:views\\cadastropage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{376AAAC9-D68F-4E8E-8574-5AF720FFB8BB}|bibliotecaVirtual(com MVVM).csproj|c:\\users\\elder\\source\\repos\\bibliotecavirtual(com mvvm)\\views\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{376AAAC9-D68F-4E8E-8574-5AF720FFB8BB}|bibliotecaVirtual(com MVVM).csproj|solutionrelative:views\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{376AAAC9-D68F-4E8E-8574-5AF720FFB8BB}|bibliotecaVirtual(com MVVM).csproj|c:\\users\\elder\\source\\repos\\bibliotecavirtual(com mvvm)\\views\\cadastropage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{376AAAC9-D68F-4E8E-8574-5AF720FFB8BB}|bibliotecaVirtual(com MVVM).csproj|solutionrelative:views\\cadastropage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{376AAAC9-D68F-4E8E-8574-5AF720FFB8BB}|bibliotecaVirtual(com MVVM).csproj|c:\\users\\elder\\source\\repos\\bibliotecavirtual(com mvvm)\\views\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{376AAAC9-D68F-4E8E-8574-5AF720FFB8BB}|bibliotecaVirtual(com MVVM).csproj|solutionrelative:views\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{376AAAC9-D68F-4E8E-8574-5AF720FFB8BB}|bibliotecaVirtual(com MVVM).csproj|c:\\users\\elder\\source\\repos\\bibliotecavirtual(com mvvm)\\views\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{376AAAC9-D68F-4E8E-8574-5AF720FFB8BB}|bibliotecaVirtual(com MVVM).csproj|solutionrelative:views\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +34,20 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
+              "Title": "LoginPage.xaml",
+              "DocumentMoniker": "C:\\Users\\elder\\source\\repos\\bibliotecaVirtual(com MVVM)\\Views\\LoginPage.xaml",
+              "RelativeDocumentMoniker": "Views\\LoginPage.xaml",
+              "ToolTip": "C:\\Users\\elder\\source\\repos\\bibliotecaVirtual(com MVVM)\\Views\\LoginPage.xaml",
+              "RelativeToolTip": "Views\\LoginPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-07T00:40:36.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "HomePage.xaml",
               "DocumentMoniker": "C:\\Users\\elder\\source\\repos\\bibliotecaVirtual(com MVVM)\\Views\\HomePage.xaml",
               "RelativeDocumentMoniker": "Views\\HomePage.xaml",
@@ -43,25 +60,25 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "LoginPage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\elder\\source\\repos\\bibliotecaVirtual(com MVVM)\\Views\\LoginPage.xaml.cs",
               "RelativeDocumentMoniker": "Views\\LoginPage.xaml.cs",
               "ToolTip": "C:\\Users\\elder\\source\\repos\\bibliotecaVirtual(com MVVM)\\Views\\LoginPage.xaml.cs",
               "RelativeToolTip": "Views\\LoginPage.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-31T18:50:59.491Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "CadastroPage.xaml",
               "DocumentMoniker": "C:\\Users\\elder\\source\\repos\\bibliotecaVirtual(com MVVM)\\Views\\CadastroPage.xaml",
               "RelativeDocumentMoniker": "Views\\CadastroPage.xaml",
-              "ToolTip": "C:\\Users\\elder\\source\\repos\\bibliotecaVirtual(com MVVM)\\Views\\CadastroPage.xaml*",
-              "RelativeToolTip": "Views\\CadastroPage.xaml*",
+              "ToolTip": "C:\\Users\\elder\\source\\repos\\bibliotecaVirtual(com MVVM)\\Views\\CadastroPage.xaml",
+              "RelativeToolTip": "Views\\CadastroPage.xaml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-10-31T18:41:52.634Z",
@@ -69,13 +86,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "CadastroPage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\elder\\source\\repos\\bibliotecaVirtual(com MVVM)\\Views\\CadastroPage.xaml.cs",
               "RelativeDocumentMoniker": "Views\\CadastroPage.xaml.cs",
               "ToolTip": "C:\\Users\\elder\\source\\repos\\bibliotecaVirtual(com MVVM)\\Views\\CadastroPage.xaml.cs",
               "RelativeToolTip": "Views\\CadastroPage.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-31T18:42:06.312Z",
               "EditorCaption": ""
