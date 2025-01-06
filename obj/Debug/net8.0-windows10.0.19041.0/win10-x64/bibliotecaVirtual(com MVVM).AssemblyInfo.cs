@@ -18,7 +18,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("bibliotecaVirtual(com MVVM)")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+8dbe3e89bcd384fffd6316e213fb6a5fc48c221a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+9eb74a5d394cdeccbdc06aec03383c7da962682f")]
 [assembly: System.Reflection.AssemblyProductAttribute("bibliotecaVirtual(com MVVM)")]
 [assembly: System.Reflection.AssemblyTitleAttribute("bibliotecaVirtual(com MVVM)")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
