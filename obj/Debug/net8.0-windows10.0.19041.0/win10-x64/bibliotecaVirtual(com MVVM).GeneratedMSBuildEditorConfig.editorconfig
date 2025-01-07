@@ -54,6 +54,12 @@ build_metadata.AdditionalFiles.ManifestResourceName = bibliotecaVirtual_com_MVVM
 build_metadata.AdditionalFiles.TargetPath = Views\HomePage.xaml
 build_metadata.AdditionalFiles.RelativePath = Views\HomePage.xaml
 
+[C:/Users/elder/source/repos/bibliotecaVirtual(com MVVM)/Views/Inicial.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = bibliotecaVirtual_com_MVVM_.Views.Inicial.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Inicial.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Inicial.xaml
+
 [C:/Users/elder/source/repos/bibliotecaVirtual(com MVVM)/Views/LoginPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = bibliotecaVirtual_com_MVVM_.Views.LoginPage.xaml

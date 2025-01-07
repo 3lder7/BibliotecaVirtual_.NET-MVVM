@@ -30,13 +30,13 @@
     <AppXManifest Include="C:\Users\elder\source\repos\bibliotecaVirtual%28com MVVM%29\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2025-01-06T20:09:30.838</Modified>
+      <Modified>2025-01-07T20:17:32.513</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\elder\source\repos\bibliotecaVirtual%28com MVVM%29\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2025-01-06T20:09:30.457</Modified>
+      <Modified>2025-01-07T20:13:01.581</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\elder\source\repos\bibliotecaVirtual%28com MVVM%29\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\bibliotecaVirtual%28com MVVM%29.runtimeconfig.json">
       <PackagePath>bibliotecaVirtual%28com MVVM%29.runtimeconfig.json</PackagePath>
@@ -44,11 +44,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\elder\source\repos\bibliotecaVirtual%28com MVVM%29\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\bibliotecaVirtual%28com MVVM%29.dll">
       <PackagePath>bibliotecaVirtual%28com MVVM%29.dll</PackagePath>
-      <Modified>2025-01-06T20:09:27.991</Modified>
+      <Modified>2025-01-07T20:17:30.973</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\elder\source\repos\bibliotecaVirtual%28com MVVM%29\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>bibliotecaVirtual%28com MVVM%29.exe</PackagePath>
-      <Modified>2025-01-06T20:09:28.187</Modified>
+      <Modified>2025-01-07T20:17:31.165</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\elder\source\repos\bibliotecaVirtual%28com MVVM%29\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
@@ -288,7 +288,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\elder\source\repos\bibliotecaVirtual%28com MVVM%29\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\bibliotecaVirtual%28com MVVM%29.deps.json">
       <PackagePath>bibliotecaVirtual%28com MVVM%29.deps.json</PackagePath>
-      <Modified>2025-01-06T20:09:29.993</Modified>
+      <Modified>2025-01-07T20:13:01.260</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\elder\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.34\lib\net6.0\Microsoft.Windows.SDK.NET.dll">
       <PackagePath>Microsoft.Windows.SDK.NET.dll</PackagePath>

@@ -23,7 +23,7 @@ public partial class CadastroPage : ContentPage
             {
                 usuariosCadastrados.Add(email);
                 await DisplayAlert("Sucesso", "Usuário cadastrado com sucesso!", "OK");
-                await Navigation.PushAsync(new ());
+                await Navigation.PushAsync(new Inicial());
             }
 
             

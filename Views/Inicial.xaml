@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="bibliotecaVirtual_com_MVVM_.Views.Inicial"
+             Title="Inicial">
+    <VerticalStackLayout
+        Spacing="20"
+        Padding="20"
+        VerticalOptions="Center"
+        HorizontalOptions="Center">
+
+        <Label 
+            Text="Bem-vindo à Biblioteca Virtual!"
+            FontSize="24"
+            HorizontalOptions="Center"
+            TextColor="Black" />
+
+        <Button 
+            Text="Cadastrar Livros"
+            BackgroundColor="#007AFF"
+            TextColor="White"
+            CornerRadius="10"
+            WidthRequest="200"
+            />
+
+        <Button 
+            Text="Visualizar Livros"
+            BackgroundColor="#34C759"
+            TextColor="White"
+            CornerRadius="10"
+            WidthRequest="200"
+            />
+
+        <Button 
+            Text="Sobre"
+            BackgroundColor="#FF9500"
+            TextColor="White"
+            CornerRadius="10"
+            WidthRequest="200"
+            />
+
+    </VerticalStackLayout>
+</ContentPage>
