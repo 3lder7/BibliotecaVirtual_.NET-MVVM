@@ -17,6 +17,7 @@ public partial class LoginPage : ContentPage
 
             // mensagem temporária de sucesso
             await DisplayAlert("Login", "Login realizado com sucesso!", "OK");
+            await Navigation.PushAsync(new Inicial());
         }
         else
         {

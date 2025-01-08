@@ -30,7 +30,7 @@
     <AppXManifest Include="C:\Users\elder\source\repos\bibliotecaVirtual%28com MVVM%29\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2025-01-07T20:17:32.513</Modified>
+      <Modified>2025-01-08T19:08:02.233</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
@@ -44,11 +44,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\elder\source\repos\bibliotecaVirtual%28com MVVM%29\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\bibliotecaVirtual%28com MVVM%29.dll">
       <PackagePath>bibliotecaVirtual%28com MVVM%29.dll</PackagePath>
-      <Modified>2025-01-07T20:17:30.973</Modified>
+      <Modified>2025-01-08T19:08:00.344</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\elder\source\repos\bibliotecaVirtual%28com MVVM%29\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>bibliotecaVirtual%28com MVVM%29.exe</PackagePath>
-      <Modified>2025-01-07T20:17:31.165</Modified>
+      <Modified>2025-01-08T19:08:00.375</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\elder\source\repos\bibliotecaVirtual%28com MVVM%29\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>

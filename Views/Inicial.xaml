@@ -13,7 +13,7 @@
             Text="Bem-vindo à Biblioteca Virtual!"
             FontSize="24"
             HorizontalOptions="Center"
-            TextColor="Black" />
+            TextColor="White" />
 
         <Button 
             Text="Cadastrar Livros"
