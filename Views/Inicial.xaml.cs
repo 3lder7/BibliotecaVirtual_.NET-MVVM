@@ -6,4 +6,14 @@ public partial class Inicial : ContentPage
 	{
 		InitializeComponent();
 	}
+
+	public class Livro 
+	{
+		public string Titulo { get; set; }
+		public string Autor {  get; set; }
+		public string ImagemUrl { get; set; }
+		public string Status { get; set; }
+		public int QtdPaginas { get; set; }
+
+	}
 }

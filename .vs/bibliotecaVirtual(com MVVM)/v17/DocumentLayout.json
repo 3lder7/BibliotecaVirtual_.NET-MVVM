@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\elder\\source\\repos\\bibliotecaVirtual(com MVVM)\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{376AAAC9-D68F-4E8E-8574-5AF720FFB8BB}|bibliotecaVirtual(com MVVM).csproj|c:\\users\\elder\\source\\repos\\bibliotecavirtual(com mvvm)\\views\\inicial.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{376AAAC9-D68F-4E8E-8574-5AF720FFB8BB}|bibliotecaVirtual(com MVVM).csproj|solutionrelative:views\\inicial.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{376AAAC9-D68F-4E8E-8574-5AF720FFB8BB}|bibliotecaVirtual(com MVVM).csproj|c:\\users\\elder\\source\\repos\\bibliotecavirtual(com mvvm)\\viewmodels\\livrosviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{376AAAC9-D68F-4E8E-8574-5AF720FFB8BB}|bibliotecaVirtual(com MVVM).csproj|solutionrelative:viewmodels\\livrosviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{376AAAC9-D68F-4E8E-8574-5AF720FFB8BB}|bibliotecaVirtual(com MVVM).csproj|c:\\users\\elder\\source\\repos\\bibliotecavirtual(com mvvm)\\models\\livrosmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{376AAAC9-D68F-4E8E-8574-5AF720FFB8BB}|bibliotecaVirtual(com MVVM).csproj|solutionrelative:models\\livrosmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{376AAAC9-D68F-4E8E-8574-5AF720FFB8BB}|bibliotecaVirtual(com MVVM).csproj|c:\\users\\elder\\source\\repos\\bibliotecavirtual(com mvvm)\\views\\inicial.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{376AAAC9-D68F-4E8E-8574-5AF720FFB8BB}|bibliotecaVirtual(com MVVM).csproj|solutionrelative:views\\inicial.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{376AAAC9-D68F-4E8E-8574-5AF720FFB8BB}|bibliotecaVirtual(com MVVM).csproj|c:\\users\\elder\\source\\repos\\bibliotecavirtual(com mvvm)\\views\\inicial.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{376AAAC9-D68F-4E8E-8574-5AF720FFB8BB}|bibliotecaVirtual(com MVVM).csproj|solutionrelative:views\\inicial.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,28 +31,52 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Inicial.xaml",
-              "DocumentMoniker": "C:\\Users\\elder\\source\\repos\\bibliotecaVirtual(com MVVM)\\Views\\Inicial.xaml",
-              "RelativeDocumentMoniker": "Views\\Inicial.xaml",
-              "ToolTip": "C:\\Users\\elder\\source\\repos\\bibliotecaVirtual(com MVVM)\\Views\\Inicial.xaml",
-              "RelativeToolTip": "Views\\Inicial.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-01-08T19:10:02.929Z",
+              "Title": "LivrosViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\elder\\source\\repos\\bibliotecaVirtual(com MVVM)\\ViewModels\\LivrosViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\LivrosViewModel.cs",
+              "ToolTip": "C:\\Users\\elder\\source\\repos\\bibliotecaVirtual(com MVVM)\\ViewModels\\LivrosViewModel.cs",
+              "RelativeToolTip": "ViewModels\\LivrosViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T19:12:31.163Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "LivrosModel.cs",
+              "DocumentMoniker": "C:\\Users\\elder\\source\\repos\\bibliotecaVirtual(com MVVM)\\Models\\LivrosModel.cs",
+              "RelativeDocumentMoniker": "Models\\LivrosModel.cs",
+              "ToolTip": "C:\\Users\\elder\\source\\repos\\bibliotecaVirtual(com MVVM)\\Models\\LivrosModel.cs",
+              "RelativeToolTip": "Models\\LivrosModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T19:08:52.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Inicial.xaml",
+              "DocumentMoniker": "C:\\Users\\elder\\source\\repos\\bibliotecaVirtual(com MVVM)\\Views\\Inicial.xaml",
+              "RelativeDocumentMoniker": "Views\\Inicial.xaml",
+              "ToolTip": "C:\\Users\\elder\\source\\repos\\bibliotecaVirtual(com MVVM)\\Views\\Inicial.xaml",
+              "RelativeToolTip": "Views\\Inicial.xaml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-08T19:10:02.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Inicial.xaml.cs",
               "DocumentMoniker": "C:\\Users\\elder\\source\\repos\\bibliotecaVirtual(com MVVM)\\Views\\Inicial.xaml.cs",
               "RelativeDocumentMoniker": "Views\\Inicial.xaml.cs",
               "ToolTip": "C:\\Users\\elder\\source\\repos\\bibliotecaVirtual(com MVVM)\\Views\\Inicial.xaml.cs",
               "RelativeToolTip": "Views\\Inicial.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T19:10:04.823Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-08T19:10:04.823Z"
             }
           ]
         }
