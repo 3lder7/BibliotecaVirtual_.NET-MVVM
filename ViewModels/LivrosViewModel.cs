@@ -3,30 +3,30 @@ using bibliotecaVirtual_com_MVVM_.Models;
 
 namespace bibliotecaVirtual_com_MVVM_.ViewModels
 {
-    public class MainPageViewModel
+    public class LivrosViewModel
     {
-        public ObservableCollection<Livros.Livro> Livros { get; set; }
+        public ObservableCollection<Livros> Livros { get; set; }
 
-        public MainPageViewModel()
+        public LivrosViewModel()
         {
             //livros previamente cadastrados
-            Livros = new ObservableCollection<Livros.Livro>
+            Livros = new ObservableCollection<Livros>
             {
-                new Livros.Livro
+                new Livros
                 {
-                    Titulo = "O Hobbit",
-                    Autor = "J.R.R. Tolkien",
-                    ImagemUrl = "https://linkparaimagem.com/ohobbit.jpg",
-                    Status = "Lido",
-                    qtdPagina = 310
+                    Titulo = "Jogos Vorazes",
+                    Autor = "Suzanne Collins",
+                    ImagemUrl = "https://conteudo.imguol.com.br/c/entretenimento/0d/2018/04/02/jennifer-lawrence-em-cena-de-jogos-vorazes-2012-1522697409235_v2_900x506.jpg",
+                    Status = "Incompleto",
+                    qtdPagina = 400
                 },
-                new Livros.Livro
+                new Livros
                 {
-                    Titulo = "Dom Casmurro",
-                    Autor = "Machado de Assis",
-                    ImagemUrl = "https://linkparaimagem.com/domcasmurro.jpg",
-                    Status = "Em leitura",
-                    qtdPagina = 256
+                    Titulo = "Fahrenheit 451",
+                    Autor = "Ray Bradbury",
+                    ImagemUrl = "https://2.bp.blogspot.com/-wQpjqbuwVrU/Ww8NImQ4s8I/AAAAAAAANkg/EwKrwm4VjdgelWngLduneVsp_93vcrekgCEwYBhgL/s1600/fahrenheit451-768x415.jpg",
+                    Status = "Finalizado",
+                    qtdPagina = 215
                 }
             };
         }

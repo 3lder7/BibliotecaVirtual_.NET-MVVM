@@ -3,11 +3,8 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="bibliotecaVirtual_com_MVVM_.Views.Inicial"
              Title="Inicial">
-    <VerticalStackLayout
-        Spacing="20"
-        Padding="20"
-        VerticalOptions="Center"
-        HorizontalOptions="Center">
+
+    <VerticalStackLayout Spacing="20" Padding="20" VerticalOptions="Center" HorizontalOptions="Center">
 
         <Label 
             Text="Bem-vindo à Biblioteca Virtual!"
@@ -20,8 +17,7 @@
             BackgroundColor="#007AFF"
             TextColor="White"
             CornerRadius="10"
-            WidthRequest="200"
-            />
+            WidthRequest="200" />
 
         <Button 
             Text="Visualizar Livros"
@@ -29,15 +25,14 @@
             TextColor="White"
             CornerRadius="10"
             WidthRequest="200"
-            />
+            Clicked="OnVisualizarLivrosClicked" />
 
         <Button 
             Text="Sobre"
             BackgroundColor="#FF9500"
             TextColor="White"
             CornerRadius="10"
-            WidthRequest="200"
-            />
+            WidthRequest="200" />
 
     </VerticalStackLayout>
 </ContentPage>

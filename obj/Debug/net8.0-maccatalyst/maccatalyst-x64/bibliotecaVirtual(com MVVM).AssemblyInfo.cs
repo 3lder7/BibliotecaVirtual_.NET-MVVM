@@ -14,11 +14,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("bibliotecaVirtual(com MVVM)")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+d081a1ce4ea8163b6461053d00d6d97500272a73")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+365507cf30c39566690157b2c2c077760e33ca15")]
 [assembly: System.Reflection.AssemblyProductAttribute("bibliotecaVirtual(com MVVM)")]
 [assembly: System.Reflection.AssemblyTitleAttribute("bibliotecaVirtual(com MVVM)")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
-[assembly: System.Runtime.Versioning.TargetPlatformAttribute("MacCatalyst17.5")]
+[assembly: System.Runtime.Versioning.TargetPlatformAttribute("MacCatalyst18.0")]
 [assembly: System.Runtime.Versioning.SupportedOSPlatformAttribute("MacCatalyst13.1")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.
