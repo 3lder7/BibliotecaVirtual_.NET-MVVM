@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="bibliotecaVirtual_com_MVVM_.Views.CadastrarLivro"
+             Title="Cadastrar Livro"
+             BackgroundColor="#121212">
+
+    <StackLayout Padding="30" VerticalOptions="Center">
+        <Label Text="Cadastrar Livo"
+               FontSize="24"
+               HorizontalOptions="Center"
+               Margin="0, 0, 0, 40"/>
+
+        <Entry Placeholder="Titulo"
+               Keyboard="Default"
+               x:Name="TituloEntry"/>
+
+        <Entry Placeholder="Autor"
+               Keyboard="Default"
+               x:Name="AutorEntry"/>
+        
+        <Entry Placeholder="Quantidade de Páginas"
+               Keyboard="Default"
+               x:Name="QtdPaginasEntry"/>
+
+        <Image      
+            x:Name="Imagem"
+            WidthRequest="150"
+            HeightRequest="200"
+            Aspect="AspectFill"
+            BackgroundColor="#1E1E1E"/>
+
+        <Button 
+            Text="Selecionar Imagem"
+            Clicked="OnPickImageClicked"
+            BackgroundColor="#4E9F3D"
+            TextColor="White"
+            CornerRadius="10"
+            WidthRequest="200"/>
+
+        <Button Text="Cadastrar"
+                BackgroundColor="Purple"
+                TextColor="White"
+                FontSize="20"
+                Margin="0, 20, 0, 0"/>
+    </StackLayout>
+</ContentPage>

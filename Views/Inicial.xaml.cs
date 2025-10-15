@@ -11,4 +11,8 @@ public partial class Inicial : ContentPage
     {
         await Navigation.PushAsync(new ViewLivros());
     }
+    private async void OnCadastrarLivrosClicked(object sender, EventArgs e)
+    {
+        await Navigation.PushAsync(new CadastrarLivro());
+    }
 }

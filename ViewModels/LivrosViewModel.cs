@@ -17,7 +17,7 @@ namespace bibliotecaVirtual_com_MVVM_.ViewModels
                     Titulo = "Jogos Vorazes",
                     Autor = "Suzanne Collins",
                     ImagemUrl = "https://conteudo.imguol.com.br/c/entretenimento/0d/2018/04/02/jennifer-lawrence-em-cena-de-jogos-vorazes-2012-1522697409235_v2_900x506.jpg",
-                    Status = "Incompleto",
+                    Status = "Lendo",
                     qtdPagina = 400
                 },
                 new Livros

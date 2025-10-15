@@ -17,7 +17,8 @@
             BackgroundColor="#007AFF"
             TextColor="White"
             CornerRadius="10"
-            WidthRequest="200" />
+            WidthRequest="200" 
+            Clicked="OnCadastrarLivrosClicked"/>
 
         <Button 
             Text="Visualizar Livros"
