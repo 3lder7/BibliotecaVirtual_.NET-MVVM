@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0LMohXmmsq4=",
+  "dgSpecHash": "Kh7HqCRLbmI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\elder\\source\\repos\\3lder7\\bibliotecaVirtual-com-MVVM-\\bibliotecaVirtual(com MVVM).csproj",
+  "projectFilePath": "C:\\Users\\elder\\Source\\Repos\\BibliotecaVirtual_.NET-MVVM\\bibliotecaVirtual(com MVVM).csproj",
   "expectedPackageFiles": [
     "C:\\Users\\elder\\.nuget\\packages\\googlegson\\2.10.1.4\\googlegson.2.10.1.4.nupkg.sha512",
     "C:\\Users\\elder\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",

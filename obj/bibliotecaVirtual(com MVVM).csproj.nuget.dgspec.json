@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\elder\\source\\repos\\3lder7\\bibliotecaVirtual-com-MVVM-\\bibliotecaVirtual(com MVVM).csproj": {}
+    "C:\\Users\\elder\\Source\\Repos\\BibliotecaVirtual_.NET-MVVM\\bibliotecaVirtual(com MVVM).csproj": {}
   },
   "projects": {
-    "C:\\Users\\elder\\source\\repos\\3lder7\\bibliotecaVirtual-com-MVVM-\\bibliotecaVirtual(com MVVM).csproj": {
+    "C:\\Users\\elder\\Source\\Repos\\BibliotecaVirtual_.NET-MVVM\\bibliotecaVirtual(com MVVM).csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\elder\\source\\repos\\3lder7\\bibliotecaVirtual-com-MVVM-\\bibliotecaVirtual(com MVVM).csproj",
+        "projectUniqueName": "C:\\Users\\elder\\Source\\Repos\\BibliotecaVirtual_.NET-MVVM\\bibliotecaVirtual(com MVVM).csproj",
         "projectName": "bibliotecaVirtual(com MVVM)",
-        "projectPath": "C:\\Users\\elder\\source\\repos\\3lder7\\bibliotecaVirtual-com-MVVM-\\bibliotecaVirtual(com MVVM).csproj",
+        "projectPath": "C:\\Users\\elder\\Source\\Repos\\BibliotecaVirtual_.NET-MVVM\\bibliotecaVirtual(com MVVM).csproj",
         "packagesPath": "C:\\Users\\elder\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\elder\\source\\repos\\3lder7\\bibliotecaVirtual-com-MVVM-\\obj\\",
+        "outputPath": "C:\\Users\\elder\\Source\\Repos\\BibliotecaVirtual_.NET-MVVM\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [
