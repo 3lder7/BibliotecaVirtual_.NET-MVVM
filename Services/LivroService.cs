@@ -19,7 +19,7 @@ namespace bibliotecaVirtual_com_MVVM_.Services
                 {
                     Titulo = "Jogos Vorazes",
                     Autor = "Suzanne Collins",
-                    ImagemUrl = "https://conteudo.imguol.com.br/c/entretenimento/0d/2018/04/02/jennifer-lawrence-em-cena-de-jogos-vorazes-2012-1522697409235_v2_900x506.jpg",
+                    ImagemUrl = "https://m.media-amazon.com/images/I/71WOkspHbOL._UF1000,1000_QL80_.jpg",
                     Status = "Lendo",
                     qtdPagina = 400
                 },

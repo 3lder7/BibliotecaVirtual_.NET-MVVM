@@ -9,18 +9,45 @@
         <viewModels:LivrosViewModel/>
     </ContentPage.BindingContext>
 
-    <CollectionView ItemsSource="{Binding Livros}">
+    <CollectionView ItemsSource="{Binding Livros}"
+                    SelectionMode="None"
+                    Margin="8">
         <CollectionView.ItemTemplate>
             <DataTemplate>
-                <Frame Margin="10" Padding="10" BorderColor="LightGray" CornerRadius="10">
-                    <VerticalStackLayout>
-                        <Image Source="{Binding ImagemUrl}" HeightRequest="150" Aspect="AspectFill"/>
-                        <Label Text="{Binding Titulo}" FontAttributes="Bold" FontSize="20"/>
-                        <Label Text="{Binding Autor}" FontSize="16"/>
-                        <Label Text="{Binding Status}" FontSize="14" TextColor="Gray"/>
-                        <Label Text="{Binding QtdPaginas, StringFormat='Páginas: {0}'}" FontSize="14"/>
-                    </VerticalStackLayout>
-                </Frame>
+                <SwipeView>
+                    <Frame HasShadow="False" CornerRadius="8" BorderColor="#E6E6E6" Padding="8" Margin="4">
+                        <Grid ColumnDefinitions="80, *" RowDefinitions="Auto,Auto,Auto">
+                            <Image Source="{Binding ImagemUrl}"
+                                   Aspect="AspectFill"
+                                   HeightRequest="72"
+                                   WidthRequest="72"
+                                   VerticalOptions="Center"
+                                   HorizontalOptions="Center"
+                                   Grid.RowSpan="3" />
+
+                            <Label Text="{Binding Titulo}"
+                                   FontAttributes="Bold"
+                                   FontSize="16"
+                                   LineBreakMode="TailTruncation"
+                                   Grid.Column="1" />
+
+                            <Label Text="{Binding Autor}"
+                                   FontSize="13"
+                                   TextColor="#666"
+                                   Grid.Row="1"
+                                   Grid.Column="1" />
+
+                            <HorizontalStackLayout Spacing="12" Grid.Row="2" Grid.Column="1">
+                                <Label Text="{Binding Status}"
+                                       FontSize="12"
+                                       TextColor="#888" />
+                                <Label Text="{Binding qtdPagina, StringFormat='Páginas: {0}'}"
+                                       FontSize="12"
+                                       TextColor="#888" />
+                            </HorizontalStackLayout>
+                        </Grid>
+                    </Frame>
+                </SwipeView>
             </DataTemplate>
         </CollectionView.ItemTemplate>
     </CollectionView>
