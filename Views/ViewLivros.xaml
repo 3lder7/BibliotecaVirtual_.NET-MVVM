@@ -37,6 +37,24 @@
                                    Grid.Row="1"
                                    Grid.Column="1" />
 
+                            <HorizontalStackLayout Spacing="10" Grid.Row="2" Grid.Column="1" HorizontalOptions="End">
+                                <Button Text="Editar" 
+                                    Grid.Row="0"
+                                    Grid.Column="0"
+                                    BackgroundColor="DarkGreen"
+                                    TextColor="White"
+                                    Clicked="Edit_Clicked"
+                                    />
+                                <Button Text="Excluir" 
+                                    Grid.Row="1"
+                                    Grid.Column="0"
+                                    BackgroundColor="DarkRed"
+                                    TextColor="White"
+                                    Clicked="Remove_Clicked"
+                                    />
+                            </HorizontalStackLayout>
+
+
                             <HorizontalStackLayout Spacing="12" Grid.Row="2" Grid.Column="1">
                                 <Label Text="{Binding Status}"
                                        FontSize="12"

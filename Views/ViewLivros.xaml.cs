@@ -9,4 +9,13 @@ public partial class ViewLivros : ContentPage
     {
         InitializeComponent();
     }
+
+    private void Edit_Clicked(object sender, EventArgs e)
+    {
+
+    }
+    private void Remove_Clicked(object sender, EventArgs e)
+    {
+
+    }
 }

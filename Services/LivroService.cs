@@ -38,5 +38,10 @@ namespace bibliotecaVirtual_com_MVVM_.Services
         {
             Livros.Add(livro);
         }
+
+        public void RemoverLivro(Livros livro) 
+        {
+            Livros.Remove(livro);
+        }
     }
 }
