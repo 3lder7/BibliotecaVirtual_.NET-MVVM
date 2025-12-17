@@ -51,6 +51,7 @@
                                     BackgroundColor="DarkRed"
                                     TextColor="White"
                                     Clicked="Remove_Clicked"
+                                    CommandParameter="{Binding .}"
                                     />
                             </HorizontalStackLayout>
 
