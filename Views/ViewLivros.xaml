@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8"?>
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:viewModels="clr-namespace:bibliotecaVirtual_com_MVVM_.ViewModels"
@@ -14,10 +14,9 @@
                     Margin="8">
         <CollectionView.ItemTemplate>
             <DataTemplate>
-                <SwipeView>
-                    <Frame HasShadow="False" CornerRadius="8" BorderColor="#E6E6E6" Padding="8" Margin="4">
-                        <Grid ColumnDefinitions="80, *" RowDefinitions="Auto,Auto,Auto">
-                            <Image Source="{Binding ImagemUrl}"
+                <Frame HasShadow="False" CornerRadius="8" BorderColor="#E6E6E6" Padding="8" Margin="4">
+                    <Grid ColumnDefinitions="80, *" RowDefinitions="Auto,Auto,Auto,Auto">
+                        <Image Source="{Binding ImagemUrl}"
                                    Aspect="AspectFill"
                                    HeightRequest="72"
                                    WidthRequest="72"
@@ -25,48 +24,41 @@
                                    HorizontalOptions="Center"
                                    Grid.RowSpan="3" />
 
-                            <Label Text="{Binding Titulo}"
+                        <Label Text="{Binding Titulo}"
                                    FontAttributes="Bold"
                                    FontSize="16"
                                    LineBreakMode="TailTruncation"
                                    Grid.Column="1" />
 
-                            <Label Text="{Binding Autor}"
+                        <Label Text="{Binding Autor}"
                                    FontSize="13"
                                    TextColor="#666"
                                    Grid.Row="1"
                                    Grid.Column="1" />
 
-                            <HorizontalStackLayout Spacing="10" Grid.Row="2" Grid.Column="1" HorizontalOptions="End">
-                                <Button Text="Editar" 
-                                    Grid.Row="0"
-                                    Grid.Column="0"
+                        <HorizontalStackLayout Spacing="10" Grid.Row="3" Grid.Column="1" HorizontalOptions="End">
+                            <Button Text="Editar" 
                                     BackgroundColor="DarkGreen"
                                     TextColor="White"
                                     Clicked="Edit_Clicked"
-                                    />
-                                <Button Text="Excluir" 
-                                    Grid.Row="1"
-                                    Grid.Column="0"
+                                    CommandParameter="{Binding .}" />
+                            <Button Text="Excluir" 
                                     BackgroundColor="DarkRed"
                                     TextColor="White"
                                     Clicked="Remove_Clicked"
-                                    CommandParameter="{Binding .}"
-                                    />
-                            </HorizontalStackLayout>
+                                    CommandParameter="{Binding .}" />
+                        </HorizontalStackLayout>
 
-
-                            <HorizontalStackLayout Spacing="12" Grid.Row="2" Grid.Column="1">
-                                <Label Text="{Binding Status}"
+                        <HorizontalStackLayout Spacing="12" Grid.Row="2" Grid.Column="1">
+                            <Label Text="{Binding Status}"
                                        FontSize="12"
                                        TextColor="#888" />
-                                <Label Text="{Binding qtdPagina, StringFormat='Páginas: {0}'}"
+                            <Label Text="{Binding qtdPagina, StringFormat='Páginas: {0}'}"
                                        FontSize="12"
                                        TextColor="#888" />
-                            </HorizontalStackLayout>
-                        </Grid>
-                    </Frame>
-                </SwipeView>
+                        </HorizontalStackLayout>
+                    </Grid>
+                </Frame>
             </DataTemplate>
         </CollectionView.ItemTemplate>
     </CollectionView>

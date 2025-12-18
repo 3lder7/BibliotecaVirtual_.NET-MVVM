@@ -14,6 +14,7 @@ public partial class ViewLivros : ContentPage
     {
 
     }
+
     private async void Remove_Clicked(object sender, EventArgs e)
     {
         if (sender is Button button && button.CommandParameter is Livros livro)
