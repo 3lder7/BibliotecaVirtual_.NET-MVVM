@@ -1,5 +1,6 @@
 using bibliotecaVirtual_com_MVVM_.Models;
 using bibliotecaVirtual_com_MVVM_.Services;
+using System.Threading.Tasks;
 
 namespace bibliotecaVirtual_com_MVVM_.Views;
 
@@ -10,9 +11,9 @@ public partial class ViewLivros : ContentPage
         InitializeComponent();
     }
 
-    private void Edit_Clicked(object sender, EventArgs e)
+    private async void Edit_Clicked(object sender, EventArgs e)
     {
-
+        await Navigation.PushAsync(new EditarLivro());
     }
 
     private async void Remove_Clicked(object sender, EventArgs e)
