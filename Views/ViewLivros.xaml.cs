@@ -13,7 +13,10 @@ public partial class ViewLivros : ContentPage
 
     private async void Edit_Clicked(object sender, EventArgs e)
     {
-        await Navigation.PushAsync(new EditarLivro());
+        if (sender is Button button && button.CommandParameter is Livros livro)
+        {
+            await Navigation.PushAsync(new EditarLivro(livro));
+        }
     }
 
     private async void Remove_Clicked(object sender, EventArgs e)
