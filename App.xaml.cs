@@ -8,7 +8,7 @@ namespace bibliotecaVirtual_com_MVVM_
         {
             InitializeComponent();
 
-            MainPage = new NavigationPage(new HomePage());
+            MainPage = new NavigationPage(new Inicial());
         }
     }
 }
